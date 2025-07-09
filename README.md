@@ -25,15 +25,10 @@ Currently focused on:
 ---
 
 ### 🧰 SKILLS
-
-**Languages & Tools**  
-`Python` `C/C++` `Arduino` `Fusion360` `AutoCAD` `SolidWorks` `Visual Studio Code` `Figma`  
-
-**Hardware & Prototyping**  
-`Sensors & Actuators` · `3D Printing` · `Laser Cutting` · `CNC Machining`  
-
-**Project Tools**  
-`Miro` · `Notion` · `Jira` · `Git` · `Google Workspace`
+**Python**: Pandas, NumPy, MatPlotLib, Seaborn  
+**Machine Learning**: Unsupervised & Supervised Learning (Scikit-learn)  
+**Engineering Tools**: Fusion360, AutoCAD  
+**Project Tools**: Miro, Notion, Jira, Git, Google Workspace
 
 ---
 ### 💡 PROJECT HIGHLIGHTS 👇👇👇
