@@ -26,9 +26,4 @@ Currently focused on:
 **Project Tools**: Miro, Notion, Jira, Git, Google Workspace
 
 ---
-### 💡 PROJECT HIGHLIGHTS 👇👇👇
-
-
----
-
-Thanks for visiting! Feel free to explore my repos or connect 🌟
+### 💡 MY PROJECTS
