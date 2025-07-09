@@ -1,10 +1,5 @@
 # Hi there 👋 I'm Luong Hoang Vy (Vionna)
 
-### 🎓 Human-Centered Engineering & Economics | Fulbright University Vietnam  
-🔧 Product Thinking · Prototyping · Embedded Systems · Design for Impact
-
----
-
 I’m passionate about building things that work — and that matter.  
 Whether it’s developing prototypes with sensors and microcontrollers, designing user-friendly systems, or leading community STEM projects, I enjoy working at the intersection of **tech, users, and purpose**.
 
